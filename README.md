@@ -4,7 +4,7 @@ Jogo desenvolvido no Construct 2, atendendo os requisitos para funcionar no mobi
 ### Objetivo
 - [x] *Coletar todas as bananas do cenário para revelar a chave. Ao pegar a chave, o portal ficará livre*
 - [x] *Cuidado com as outras mortes, se você encostar nelas perderá vida*
-- [x] *Use e abuse do golpe mortal, e do lança foice, utilizando ```CTRL``` e ```SHIFT```.
+- [x] *Use e abuse do golpe mortal, e do lança foice, utilizando ```CTRL``` e ```SHIFT```.*
 
 ### Algumas características
 - [x] Criado no software Construct 2
